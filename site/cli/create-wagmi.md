@@ -4,7 +4,7 @@
 
 create-wagmi is a command line interface (CLI) for scaffolding new Wagmi projects.
 
-## Usage
+### Usage
 
 ::: code-group
 ```bash [pnpm]
